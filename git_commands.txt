@@ -1,0 +1,37 @@
+ 1  git config --global user.name reachoutsahani
+    2  git congig --global user.email "ajaysahani6392@gmail.com"
+    3  git config --global user.email "ajaysahani6392@gmail.com"
+    4  touch .gitignore
+    5  git init
+    6  git add .
+    7  git commit -m "Random password Genrator" 
+    8  git status
+    9  git remote add origin https://github.com/reachoutsahani/RANDOM-PASSWORD-GENERATOR-FRONTEND-PROJECT-.git 
+   10  git push origin master
+   11  git config --global user.name reachoutsahani
+   12  git config --global user.email "ajaysahani6392@gmail.com"
+   13  touch .gitignore
+   14  git init
+   15  git add .
+   16  git add .
+   17  git commit -m "rpm"
+   18  git  status
+   19  git remote add origin https://github.com/reachoutsahani/RANDOM-PASSWORD-GENERATOR-FRONTEND-PROJECT-.git 
+   20  git push origin master
+   21  C:/Users/ajays/AppData/Local/Programs/Python/Python314/python.exe c:/Users/ajays/OneDrive/Desktop/Git-Hub-for-devops-workshop/testing.py
+   22   git status
+   23  gitt add  testing.py
+   24  git status testing.py
+   25  git add testing.py
+   26  git status
+   27  git commit -m "added testing file" 
+   28  git status
+   29  rm testing.py
+   30  ls
+   31  git status
+   32  git restore testing .py
+   33  git restore testing.py
+   34  clear
+   35  C:/Users/ajays/AppData/Local/Programs/Python/Python314/python.exe c:/Users/ajays/OneDrive/Desktop/Git-Hub-for-devops-workshop/testing.py
+   36  gigt history
+   37  history
